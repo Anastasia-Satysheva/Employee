@@ -1,0 +1,178 @@
+[
+    {
+		"First_Name": "Anastasia",
+		"Last_Name": "Satysheva",
+		"Phone_number": "(603) 777-6263",
+		"Email": "anastasia.satysheva@gmail.com",
+		"Department": "IT"
+	},
+	{
+		"First_Name": "Steven",
+		"Last_Name": "King ",
+		"Phone_number": "(123) 526-1391",
+		"Email": "king@gmail.com",
+		"Department": "Marketing"
+	},
+	{
+		"First_Name": "Neena",
+		"Last_Name": "Kochhar",
+		"Phone_number": "(123) 694-5036",
+		"Email": "kochhar@gmail.com",
+		"Department": "Shipping"
+	},
+	{
+		"First_Name": "Diana",
+		"Last_Name": "Lorentz",
+		"Phone_number": "(123) 329-5751",
+		"Email": "lorentz@aol.com",
+		"Department": "Shipping"
+	},
+	{
+		"First_Name": "David",
+		"Last_Name": "Austin",
+		"Phone_number": "(123) 378-2926",
+		"Email": "austin@gmail.com",
+		"Department": "Marketing"
+	},
+	{
+		"First_Name": "Bruce",
+		"Last_Name": "Markez",
+		"Phone_number": "(123) 707-4258",
+		"Email": "markez@aol.com",
+		"Department": "Marketing"
+	},
+	{
+		"First_Name": "Albert",
+		"Last_Name": "Lorenz",
+		"Phone_number": "(123) 791-7904",
+		"Email": "lorenz@gmail.com",
+		"Department": "Alumni Relations"
+	},
+	{
+		"First_Name": "Adam",
+		"Last_Name": "Podraza",
+		"Phone_number": "(123) 622-1697",
+		"Email": "podraza@gmail.com",
+		"Department": "IT"
+	},
+	{
+		"First_Name": "Jeff",
+		"Last_Name": "Larabee",
+		"Phone_number": "(123) 289-8218",
+		"Email": "larabee@gmail.com",
+		"Department": "Manager"
+	},
+	{
+		"First_Name": "Olga",
+		"Last_Name": "Kirilenko",
+		"Phone_number": "(123) 819-8326",
+		"Email": "kirilenko@aol.com",
+		"Department": "Parking"
+	},
+	{
+		"First_Name": "Eric",
+		"Last_Name": "King",
+		"Phone_number": "(123) 815-6386",
+		"Email": "king@gmail.com",
+		"Department": "Parking"
+	},
+	{
+		"First_Name": "Zakhar",
+		"Last_Name": "Hennesy",
+		"Phone_number": "(123) 847-8571",
+		"Email": "hennesy@mail.com",
+		"Department": "Manager"
+	},
+	{
+		"First_Name": "Brad",
+		"Last_Name": "Keselovski",
+		"Phone_number": "(123) 509-1394",
+		"Email": "keselovski@gmail.com",
+		"Department": "Dining"
+	},
+	{
+		"First_Name": "Austin",
+		"Last_Name": "Frank",
+		"Phone_number": "(123) 844-9265",
+		"Email": "frank@aol.com",
+		"Department": "Dining"
+	},
+	{
+		"First_Name": "Harry",
+		"Last_Name": "Larison",
+		"Phone_number": "(123) 202-7482",
+		"Email": "larison@aol.com",
+		"Department": "IT"
+	},
+	{
+		"First_Name": "Jarry",
+		"Last_Name": "Barry",
+		"Phone_number": "(123) 306-9733",
+		"Email": "barry@gmail.com",
+		"Department": "Marketing"
+	},
+	{
+		"First_Name": "Paul",
+		"Last_Name": "Messier",
+		"Phone_number": "(123) 308-4335",
+		"Email": "messier@aol.com",
+		"Department": "Manager"
+	},
+	{
+		"First_Name": "Dick",
+		"Last_Name": "Makris",
+		"Phone_number": "(123) 255-9581",
+		"Email": "makris@aol.com",
+		"Department": "IT"
+	},
+	{
+		"First_Name": "Max",
+		"Last_Name": "Levin",
+		"Phone_number": "(123) 822-1696",
+		"Email": "levin@gmail.com",
+		"Department": "Shipping"
+	},
+	{
+		"First_Name": "Rita",
+		"Last_Name": "Herry",
+		"Phone_number": "(123) 477-5665",
+		"Email": "herry@aol.com",
+		"Department": "Alumni Relations"
+    },
+    {
+		"First_Name": "Rita",
+		"Last_Name": "Williams",
+		"Phone_number": "(123) 477-4325",
+		"Email": "williams@gmail.com",
+		"Department": "Parking"
+    },
+    {
+		"First_Name": "Richard",
+		"Last_Name": "Alown",
+		"Phone_number": "(123) 235-9584",
+		"Email": "alown@aol.com",
+		"Department": "Dining"
+    },
+    {
+		"First_Name": "Rick",
+		"Last_Name": "Mackenzie",
+		"Phone_number": "(123) 786-1343",
+		"Email": "rickm@mail.ru",
+		"Department": "Dining"
+    },
+    {
+		"First_Name": "Travis",
+		"Last_Name": "Colliers",
+		"Phone_number": "(123) 213-4528",
+		"Email": "colliers@gmal.com",
+		"Department": "IT"
+    },
+    
+	{
+		"First_Name": "Simone",
+		"Last_Name": "Colin",
+		"Phone_number": "(123) 238-5333",
+		"Email": "colin@mail.ru",
+		"Department": "IT"
+    }
+]
