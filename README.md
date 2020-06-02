@@ -4,4 +4,4 @@ This React-based application will allow the user to view a table of all employee
 # Link  
 Check it out here: https://employee-table-v2.herokuapp.com/ 
 # Screenshot
-<img src="./Screen Shot 2020-06-02 at 9.14.58 AM">
+<img src="./Screen Shot 2020-06-02 at 9.14.58 AM.png">
